@@ -8,7 +8,7 @@
 
 ### Main Dashboard
 <!-- Replace the URL below with your actual screenshot path once uploaded to GitHub -->
-![Main GUI Preview](https://githubusercontent.com)
+![Main GUI Preview](https://media.licdn.com/dms/image/sync/v2/D4E27AQGvBBlzVX-gSA/articleshare-shrink_800/articleshare-shrink_800/0/1749163406747?e=2147483647&v=beta&t=wYRLkfQ2tFg_O-FSqVJB_-C-7zYeDmKy0rRem6M2Em8)
 
 ### Spoofing Process Log
 ![Process Log](https://githubusercontent.com)
